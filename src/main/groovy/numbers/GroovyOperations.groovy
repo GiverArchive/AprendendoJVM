@@ -1,3 +1,5 @@
+package numbers
+
 class GroovyOperations {
     static void main(String[] args) {
         println("Integers")

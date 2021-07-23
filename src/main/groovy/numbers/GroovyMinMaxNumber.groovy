@@ -1,3 +1,5 @@
+package numbers
+
 class GroovyMinMaxNumber {
     static void main(String[] args) {
         println("Min and Max numbers")
